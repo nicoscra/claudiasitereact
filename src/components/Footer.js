@@ -24,13 +24,13 @@ const Footer = ()=> {
                     <h5>Social</h5>
                         <a
                             className='btn btn-social-icon btn-instagram'
-                            href='http://instagram.com/'
+                            href='https://www.instagram.com/artclaudiacota/'
                         >
                             <i className='fa fa-instagram' />
                         </a>{' '}
                         <a
                             className='btn btn-social-icon btn-facebook'
-                            href='http://www.facebook.com/'
+                            href='http://facebook.com/artclaudiacota/'
                         >
                             <i className='fa fa-facebook' />
                         </a>{' '}

@@ -21,7 +21,7 @@ const ContactPage = () => {
                     className='btn btn-link'
                     href='mailto:fakeemail@fakeemail.co'
                     >
-                        <i className='fa fa-envelope-o' />artclaudiacota@gmail.com
+                        <i className='fa fa-envelope-o' /> artclaudiacota@gmail.com
                     </a>
                 </Col>
             </Row>

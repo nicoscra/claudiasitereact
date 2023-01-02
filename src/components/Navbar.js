@@ -1,5 +1,5 @@
 import { Navbar, NavbarBrand } from "reactstrap";
-import SubHeader from "./SubHeader";
+
 
 const AppNavbar = () => {
     return (
@@ -11,7 +11,7 @@ const AppNavbar = () => {
   >
     <NavbarBrand href="/">
         Art Claudia Cota
-        <SubHeader current ='Home' />
+        
     </NavbarBrand>
   </Navbar>
     )
