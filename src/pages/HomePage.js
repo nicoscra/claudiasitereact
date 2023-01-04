@@ -1,4 +1,6 @@
 import { Col, Container } from "reactstrap";
+//import CladiaBioImg from '../app/img/cladiabioimage.jpg';
+import ClaudiaImage from '../pages/claudiabioimg.jpg';
 
 
 
@@ -20,6 +22,9 @@ const HomePage = () => {
                             a
                             journey that allows everyone to connect with their innerselves.
                         </p>
+                    </Col>
+                    <Col>
+                        <img src={ClaudiaImage} alt="banana" />
                     </Col>
                     <Col>
                         <h2>Resume</h2>
