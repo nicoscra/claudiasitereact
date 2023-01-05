@@ -108,7 +108,7 @@ const handleSubmit = (values, { resetForm }) => {
                 </FormGroup>
                 <FormGroup row>
                     <Label htmlFor='artIdea' md='2'>
-                        Art Idea
+                        Tell me about your art idea.
                     </Label>
                     <Col md='10'>
                         <Field
@@ -117,6 +117,9 @@ const handleSubmit = (values, { resetForm }) => {
                             rows='12'
                             className='form-control'
                         />
+                        <Button className='btn-sm'  type='submit' color='primary'>
+                            Attach File (optional)    
+                        </Button>
                     </Col>
                 </FormGroup>
                 <FormGroup row>

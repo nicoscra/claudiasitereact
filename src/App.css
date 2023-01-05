@@ -1,10 +1,20 @@
-div{
+div {
   background-color: black;
   color: aliceblue;
 }
+
+
+
+.site-SubHeader{
+  background-color:black;
+  color:aliceblue;
+}
+
 .site-footer {
   background-color:black;
   color:aliceblue;
   padding: 20px 0;
   margin-top: 2rem;
 }
+
+

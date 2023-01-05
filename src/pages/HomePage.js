@@ -1,5 +1,4 @@
 import { Col, Container } from "reactstrap";
-//import CladiaBioImg from '../app/img/cladiabioimage.jpg';
 import ClaudiaImage from '../pages/claudiabioimg.jpg';
 
 
@@ -24,7 +23,7 @@ const HomePage = () => {
                         </p>
                     </Col>
                     <Col>
-                        <img src={ClaudiaImage} alt="banana" />
+                        <img src={ClaudiaImage} alt="Claudia Bio Pic" />
                     </Col>
                     <Col>
                         <h2>Resume</h2>
